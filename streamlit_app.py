@@ -9,8 +9,8 @@ angka = st.number_input("Tulis sebuah angka:", value=0, step=1)
 
 
 if(angka % 2) == 0:
-    st.write(f”{angka} Adalah Bilangan Genap”) 
+    st.write(f"{angka} Adalah bilangan genap")
 else:
-    st.write(f”{angka} Adalah Bilangan Ganjil”)         
+    st.write(f"{angka} adalah bilangan ganjil")       
 
     
